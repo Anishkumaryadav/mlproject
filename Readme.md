@@ -15,12 +15,15 @@ Its L2 regularization effectively handled feature correlations while preventing 
 **Accuracy**
 ![alt text](<Screenshot 2025-06-15 005949.png>)
 
+
 ## Key Features 🛠️
 - **Data Processing**: Handles both numerical and categorical features with robust preprocessing
 - **Multiple Models**: Evaluates various regression models (Random Forest, XGBoost, CatBoost, etc.)
 - **Hyperparameter Tuning**: Uses GridSearchCV for optimal model performance
 - **Web Interface**: Flask-based web application for easy interaction
+![alt text](<Screenshot 2025-06-15 071105.png>)
 - **Modular Code**: Well-organized components following software engineering best practices
+
 
 
 ## Project Structure🎯 
