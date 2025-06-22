@@ -1,7 +1,7 @@
 # End-to-End Machine Learning Project: Student Performance Prediction📝 #
 
 # Introduction 🔬
-    This project is an end-to-end machine learning industry followed path project that predicts student math scores based on various factors like gender, ethnicity, parental education level, lunch type, and test preparation. The project includes data ingestion, preprocessing, model training, evaluation, and a Flask-based web application for predictions.
+This project is an end-to-end machine learning industry followed path project that predicts student math scores based on various factors like gender, ethnicity, parental education level, lunch type, and test preparation. The project includes data ingestion, preprocessing, model training, evaluation, and a Flask-based web application for predictions.
 
 ## Model Training:
     We trained multiple models (Ridge, Random Forest, XGBoost) and evaluated them using R² score.
